@@ -1,7 +1,7 @@
 public class RandomIntervals {
 
     public static void main(String[] args) {
-//        int random = (int)(Math.random());
-
+        //-49, 50
+        int random = (int)(Math.random()*100 - 50);
     }
 }
